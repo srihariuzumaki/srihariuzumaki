@@ -1,6 +1,7 @@
-# 💫 About Me: Hey , I am Srihari Kulkarni , a FrontEnd Developer!!
+# 💫 Hey , I am Srihari Kulkarni , a Web Developer!!
 
-🔭 I’m currently working on Task Mate App<br>🌱 I’m currently studying CSE at Proudhadevaraya Institute if Technology<br>💬 You can talk with me regardingg anything<br>
+🔭 I’m currently working on Task Mate App<br> 🖥️I am a Front End Developer <br>
+🌱 I’m currently studying CSE at Proudhadevaraya Institute if Technology<br>💬 You can reach out to me via Instagram<br>
 
 <hr>
 
