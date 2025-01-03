@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Task Mate App<br> 🖥️I am currently learning Web Development <br>
 🌱 I’m currently studying CSE at Proudhadevaraya Institute if Technology<br>💬 You can reach out to me via Instagram<br>
-📃 download my resume here : (https://drive.google.com/drive/u/0/home)
+📃 download my resume here : (https://drive.google.com/file/d/1NPUGkVazALscD_X1WNWWrxdG9_gwqfHo/view?usp=drive_link)
 
 <hr>
 
