@@ -3,7 +3,7 @@
 🔭 I’m currently working on Task Mate App<br> 🖥️I am currently learning Web Development <br>
 🌱 I’m currently studying CSE at Proudhadevaraya Institute of Technology<br>💬 You can reach out to me via Instagram<br>
 🌐 Visit My Portfolio here : https://srihari-k-portfolio.vercel.app/ <br>
-📃 download my resume here : (https://drive.google.com/file/d/1gnYWfpuh55XCArCmpeak8Pg36_sO2e6E/view?usp=drive_link)
+📃 download my resume here : (https://drive.google.com/file/d/1gnYWfpuh55XCArCmpeak8Pg36_sO2e6E/view?usp=sharing)
 
 <hr>
 
