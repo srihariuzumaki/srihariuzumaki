@@ -1,6 +1,6 @@
-# 💫 Hey , I am Srihari Kulkarni , a Web Developer!!
+# 💫 Hey , I am Srihari Kulkarni , Software Engineer!!
 
-🔭 I’m currently working on Smart Attendance System <br> 🖥️I Build 3d Interactive Websites  <br>
+🔭 I’m currently working on a product Parkd <br> 🖥️I Build 3d Interactive Websites  <br>
 🌱 I’m currently studying CSE at Proudhadevaraya Institute of Technology<br>💬 You can reach out to me via Instagram<br>
 🌐 Visit My Portfolio here : https://srihari-k-portfolio.vercel.app/ <br>
 📃 download my resume here : (https://drive.google.com/file/d/1CPmidM7tJnhafkiDw5G0F6OmPUoFUiYq/view?usp=sharing)
