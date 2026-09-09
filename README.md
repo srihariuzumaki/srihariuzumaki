@@ -3,7 +3,7 @@
 🔭 I’m currently working on a product Parkd <br> 🖥️I Build 3d Interactive Websites  <br>
 🌱 I’m currently studying CSE at Proudhadevaraya Institute of Technology<br>💬 You can reach out to me via Instagram<br>
 🌐 Visit My Portfolio here : https://srihari-k-portfolio.vercel.app/ <br>
-📃 download my resume here : (https://drive.google.com/file/d/1IJ5KOk6aFXBVni6F2Q2dQ4ZW0bphQokk/view?usp=drive_link)
+📃 download my resume here : (https://drive.google.com/file/d/1GTFWBEflq10xDFHQkxsO6uakgNzBh3Wb/view?usp=sharing)
 <hr>
 
 ## 🌐 Socials:
